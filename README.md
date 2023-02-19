@@ -9,3 +9,8 @@ Whatever he likes I add
 
 # [--_Blue_Iio_--](https://www.mediafire.com/file/kk80cvq9qypniv6/--_Blue_Iio_--.osk/file)
 ![Alt text](https://i.imgur.com/fJdMrkU.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [-_A_A_BUBBLE_FIRE_EDIT](https://www.mediafire.com/file/kn5onvxugfgge6q/-_A_A_BUBBLE_FIRE_EDIT.osk/file)
+![Alt text](https://i.imgur.com/vWqSFDq.png://full/path/to/img.jpg "Optional title")
