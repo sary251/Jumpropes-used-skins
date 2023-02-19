@@ -17,4 +17,4 @@ Whatever he likes I add
 
 
 <p align="center">
-<img width="440" height="160" src=https://i.imgur.com/M2Qx8WC.gif/460/300">
+<img width="440" height="260" src=https://i.imgur.com/M2Qx8WC.gif/460/300">
