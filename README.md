@@ -14,3 +14,7 @@ Whatever he likes I add
 
 # [-_A_A_BUBBLE_FIRE_EDIT](https://www.mediafire.com/file/kn5onvxugfgge6q/-_A_A_BUBBLE_FIRE_EDIT.osk/file)
 ![Alt text](https://i.imgur.com/vWqSFDq.png://full/path/to/img.jpg "Optional title")
+
+
+<p align="center">
+<img width="640" height="360" src=https://i.imgur.com/M2Qx8WC.gif/460/300">
